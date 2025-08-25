@@ -45,7 +45,7 @@ Para quem acha que é necessário ter o dispositivo `gateway` e o `dispositivo d
 No entanto, é possível desenvolver e validar funcionalidades usando testes automatizados e principalmente ferramentas como `mosquitto_sub` e `mosquitto_pub`.
 
 
-Para enviar um json para a API, `mosquitto_pub` podemos fazer o seguinte comando:
+Para enviar um json para a API, usando `mosquitto_pub`, podemos fazer o seguinte comando:
 
 
 ```bash

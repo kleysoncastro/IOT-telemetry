@@ -23,6 +23,8 @@ Instalação de equipamentos industriais, acessórios de segurança, quadros el�
    - redis
    - postgresql
 
+Visão resumida da API em Go Lang [doc/core-api.md](doc/core-api.md) 
+
 2. Dispositivos de monitoramento ou `dispositivos de telemetria`
    - Gateway
    - Dispositivos IoT com sensor diversos, temperatura, umidade, luminosidade, corrente, tensão, eixos, vibração.
