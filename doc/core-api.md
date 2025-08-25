@@ -40,9 +40,7 @@ Os campos `serial_number` e `node_number` são dados enviados pelo `gateway` par
 
 ### Desenvolvimento e teste
 
-Para quem acha que é necessário ter o dispositivo `gateway` e o `dispositivo de telemetria` prontos para desenvolver e validar funcionalidades da `API`,
-
-No entanto, é possível desenvolver e validar funcionalidades usando testes automatizados e principalmente ferramentas como `mosquitto_sub` e `mosquitto_pub`.
+Para quem acha que é necessário ter o dispositivo `gateway` e o `dispositivo de telemetria` prontos para desenvolver e validar funcionalidades da `API`, no entanto, é possível desenvolver e validar funcionalidades usando testes automatizados e principalmente ferramentas como `mosquitto_sub` e `mosquitto_pub`.
 
 
 Para enviar um json para a API, usando `mosquitto_pub`, podemos fazer o seguinte comando:
