@@ -29,7 +29,7 @@ Instalação de equipamentos industriais, acessórios de segurança, quadros el�
 
 Visão resumida da API em Go Lang [doc/core-api.md](doc/core-api.md) 
 
-Endpoints Https [doc/endpoints-https.md](doc/endpoints-https.md)
+Endpoints Https [doc/endpoints-https.md](doc/endpoits-https.md)
 
 ## _
 
