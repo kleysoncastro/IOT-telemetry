@@ -9,6 +9,7 @@ O projeto visa criar um sistema de supervisor de dispositivos IoT Industriais, q
 ![Dispositivo de telemetria](doc/sistema.png)
 
 
+
 ### Alvo para supervisão
 
 Instalação de equipamentos industriais, acessórios de segurança, quadros elétricos, etc.
@@ -23,7 +24,14 @@ Instalação de equipamentos industriais, acessórios de segurança, quadros el�
    - redis
    - postgresql
 
+
+## Link para o projeto
+
 Visão resumida da API em Go Lang [doc/core-api.md](doc/core-api.md) 
+
+Endpoints Https [doc/endpoints-https.md](doc/endpoints-https.md)
+
+## _
 
 2. Dispositivos de monitoramento ou `dispositivos de telemetria`
    - Gateway
