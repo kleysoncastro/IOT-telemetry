@@ -3,6 +3,8 @@
 
 Para melhor integração entre desenvolvedores de JavaScript/TypeScript, os endpoints e toda a parte de CRUD devem ser implementados em JavaScript/TypeScript.
 
+Repo [REPO API REST ](https://github.com/kleysoncastro/IOT_api_node_telemetry)
+
 ### Tecnologias
 
 - 1. Node.js
