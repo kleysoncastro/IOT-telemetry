@@ -6,7 +6,7 @@ func main() {
 
 	clientMqtt := mqtt.GetMqttClient()
 
-	clientMqtt.Subscribe("/device/0/", 0, nil)
+	clientMqtt.Subscribe("/www/sensor", 0, nil)
 
 	select {}
 }
